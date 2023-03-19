@@ -33,3 +33,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+body {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  color: #111111;
+  background-color: #e2e2e2;
+}
