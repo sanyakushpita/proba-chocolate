@@ -1,0 +1,62 @@
+/* How its made */
+.how-made {
+  margin-bottom: 72px;
+}
+.how-made-title {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+
+  color: #111111;
+  margin-bottom: 32px;
+}
+.how-made-video {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.how-made-img {
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.video-btn {
+  position: absolute;
+  background-color: transparent;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.icon-play-video {
+  fill: transparent;
+  stroke: #ffffff;
+}
+.how-made-wrap {
+  padding: 20px 14px;
+  background: #ffffff;
+  border-radius: 15px;
+}
+.how-made-text {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: #111111;
+  margin-bottom: 20px;
+}
+.how-made-list {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.how-made-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+
+  color: #111111;
+  list-style: disc;
+  margin-bottom: 18px;
+}

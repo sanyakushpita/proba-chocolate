@@ -1,1 +1,47 @@
-
+/* Header */
+.nav {
+  padding-top: 25px;
+  padding-bottom: 19px;
+}
+.mob-menu {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.3;
+  letter-spacing: -0.03em;
+  color: #111111;
+}
+.header-logo > span {
+  font-style: italic;
+}
+.icon-logo {
+  stroke: #fd9222;
+  fill: none;
+}
+/* Mob menu open */
+.nav-mob-btn {
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  right: 0;
+  padding: 0;
+  width: 21px;
+  height: 14px;
+}
+.mob-nav-open {
+  stroke: #111111;
+  width: 100%;
+  height: 100%;
+}
+/* Other menu */
+.other-menu {
+  display: none;
+}

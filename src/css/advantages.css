@@ -1,0 +1,41 @@
+/* Advantages */
+.advantages {
+  padding-top: 29px;
+  padding-bottom: 7px;
+
+  background: #1e1823;
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px;
+}
+
+.advan-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 62px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 365px;
+  margin-bottom: 22px;
+}
+
+.advantages-icon {
+  fill: #fd9222;
+}
+.advan-title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  margin-bottom: 18px;
+}
+.advan-text {
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+
+  color: #ffffffb2;
+
+  margin-bottom: 29px;
+}
